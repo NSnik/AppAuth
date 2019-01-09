@@ -9,3 +9,6 @@ library/build
 appauth.keystore
 /app/build
 /app/.idea/*
+/app/*.md
+/app/local.properties
+.travis.yml
