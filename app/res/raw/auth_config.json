@@ -1,0 +1,12 @@
+{
+  "client_id": "demofon",
+  "redirect_uri": "com.example.demofon://app/oauth2redirect",
+  "authorization_scope": "0",
+  "discovery_uri": "",
+  "authorization_endpoint_uri": "https://id.is74.ru/authorize",
+  "token_endpoint_uri": "https://id.is74.ru/token",
+  "registration_endpoint_uri": "https://id.is74.ru/token",
+  "user_info_endpoint_uri": "https://id.is74.ru/authorize",
+  "https_required": true
+}
+
